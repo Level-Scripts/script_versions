@@ -1,1 +1,2 @@
-{"version":"1.0.0","news":"Script created"}
+{"version":"1.0.1","news":"Fixed discord logs
+Fixed version check"}
