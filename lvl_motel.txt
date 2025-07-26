@@ -1,1 +1,3 @@
-{"version":"1.0.1","news":"Script created"}
+{"version":"1.0.1","news":"Fixed interaction after ended room preview
+Fixed SQL error
+Fixed version check"}
