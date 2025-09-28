@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Fixed discord logs, Fixed version check"}
+{"version":"1.0.2","news":"Fixed getPDCount, Added NUI for timer and hint"}
