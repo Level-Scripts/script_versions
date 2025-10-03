@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Script created"}
+{"version":"1.0.1","news":"Fixed bugs, Added config option MissionVisibility (all / player) to control whether missions are visible to everyone or only to the player who started them, New NUI for timer, Added creation and editing of guard difficulty in config.lua"}
