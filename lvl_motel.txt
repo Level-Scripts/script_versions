@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Fixed interaction after ended room preview, Fixed SQL error, Fixed version check"}
+{"version":"1.0.2","news":"Fixed bugs, Fixed locked/unlocked, Fixed opening stash"}
