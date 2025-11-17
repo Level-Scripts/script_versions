@@ -1,1 +1,1 @@
-d
+{"version":"1.0.0","news":"Script created"}
