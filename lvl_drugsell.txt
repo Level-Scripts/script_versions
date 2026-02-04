@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fixed webhook locales, Fixed bugs when placing machine, Fixed QB Core version"}
+{"version":"1.0.3","news":"Fixed offer, Added suport for item metadata, Added config for money type"}
