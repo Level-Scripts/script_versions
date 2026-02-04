@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Fixed offer, Added suport for item metadata, Added config for money type"}
+{"version":"1.0.3","news":"Fixed offers, Added suport for item metadata, Added config for money type"}
